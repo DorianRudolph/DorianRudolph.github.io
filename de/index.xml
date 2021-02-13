@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dorian Rudolph</title>
+    <link>https://dorianrudolph.com/de/</link>
+    <description>Recent content on Dorian Rudolph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dorianrudolph.com/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum und Datenschutz</title>
+      <link>https://dorianrudolph.com/de/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dorianrudolph.com/de/imprint/</guid>
+      <description>Dorian Rudolph
+Kiefernweg 5
+33154 Salzkotten
+Email: mail@dorianrudolph.com
+Auf dieser Webseite werden keine personenbezogenen Daten erhoben, gespeichert oder verarbeitet, und es werden keine Cookies verwendet. Falls der Nutzer mich kontaktiert (beispielsweise über die oben genannte E-Mail), werden nur die zur Kommunikation notwendigen Daten gespeichert. Ihre Löschung kann per E-Mail beantragt werden.
+Diese Website wird von Servern eines Drittanbieters (Github Pages) bereitgestellt. Daher ist es notwendig, dass dieser Drittanbieter die IP-Adresse des Nutzers verarbeitet, da er sonst nicht die Websiteinhalte an den Browser des Nutzers senden könnte.</description>
+    </item>
+    
+    <item>
+      <title>Suche</title>
+      <link>https://dorianrudolph.com/de/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dorianrudolph.com/de/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

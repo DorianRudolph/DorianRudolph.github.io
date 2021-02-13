@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dorianrudolph.com/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dorianrudolph.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dorianrudolph.com/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dorianrudolph.com/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dorianrudolph.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dorianrudolph.com/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dorianrudolph.com/de/imprint/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dorianrudolph.com/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dorianrudolph.com/de/imprint/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dorianrudolph.com/de/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dorianrudolph.com/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dorianrudolph.com/de/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dorianrudolph.com/de/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dorianrudolph.com/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dorianrudolph.com/de/search/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dorianrudolph.com/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dorianrudolph.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dorianrudolph.com/de/tags/"
+                />
+  </url>
+  
+</urlset>
