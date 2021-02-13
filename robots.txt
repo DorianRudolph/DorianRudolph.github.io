@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://dorianrudolph.com/sitemap.xml
+Sitemap: https://www.dorianrudolph.com/sitemap.xml

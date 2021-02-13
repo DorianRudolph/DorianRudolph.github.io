@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dorian Rudolph</title>
-    <link>https://dorianrudolph.com/</link>
+    <link>https://www.dorianrudolph.com/</link>
     <description>Recent content on Dorian Rudolph</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dorianrudolph.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.dorianrudolph.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide 0</title>
-      <link>https://dorianrudolph.com/posts/markdown-syntax/</link>
+      <link>https://www.dorianrudolph.com/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dorianrudolph.com/posts/markdown-syntax/</guid>
+      <guid>https://www.dorianrudolph.com/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://dorianrudolph.com/archives/</link>
+      <link>https://www.dorianrudolph.com/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dorianrudolph.com/archives/</guid>
+      <guid>https://www.dorianrudolph.com/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Imprint and Privacy</title>
-      <link>https://dorianrudolph.com/imprint/</link>
+      <link>https://www.dorianrudolph.com/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dorianrudolph.com/imprint/</guid>
+      <guid>https://www.dorianrudolph.com/imprint/</guid>
       <description>Dorian Rudolph
 Kiefernweg 5
 33154 Salzkotten
@@ -41,10 +41,10 @@ This website is hosted on third party servers (Github Pages). Therefore, it is n
     
     <item>
       <title>Search</title>
-      <link>https://dorianrudolph.com/search/</link>
+      <link>https://www.dorianrudolph.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dorianrudolph.com/search/</guid>
+      <guid>https://www.dorianrudolph.com/search/</guid>
       <description></description>
     </item>
     

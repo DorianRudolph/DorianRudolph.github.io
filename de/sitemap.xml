@@ -3,86 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dorianrudolph.com/de/categories/</loc>
+    <loc>https://www.dorianrudolph.com/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dorianrudolph.com/categories/"
+                href="https://www.dorianrudolph.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dorianrudolph.com/de/categories/"
+                href="https://www.dorianrudolph.com/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://dorianrudolph.com/de/</loc>
+    <loc>https://www.dorianrudolph.com/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dorianrudolph.com/"
+                href="https://www.dorianrudolph.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dorianrudolph.com/de/"
+                href="https://www.dorianrudolph.com/de/"
                 />
   </url>
   
   <url>
-    <loc>https://dorianrudolph.com/de/imprint/</loc>
+    <loc>https://www.dorianrudolph.com/de/imprint/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dorianrudolph.com/imprint/"
+                href="https://www.dorianrudolph.com/imprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dorianrudolph.com/de/imprint/"
+                href="https://www.dorianrudolph.com/de/imprint/"
                 />
   </url>
   
   <url>
-    <loc>https://dorianrudolph.com/de/series/</loc>
+    <loc>https://www.dorianrudolph.com/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dorianrudolph.com/series/"
+                href="https://www.dorianrudolph.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dorianrudolph.com/de/series/"
+                href="https://www.dorianrudolph.com/de/series/"
                 />
   </url>
   
   <url>
-    <loc>https://dorianrudolph.com/de/search/</loc>
+    <loc>https://www.dorianrudolph.com/de/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dorianrudolph.com/search/"
+                href="https://www.dorianrudolph.com/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dorianrudolph.com/de/search/"
+                href="https://www.dorianrudolph.com/de/search/"
                 />
   </url>
   
   <url>
-    <loc>https://dorianrudolph.com/de/tags/</loc>
+    <loc>https://www.dorianrudolph.com/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dorianrudolph.com/tags/"
+                href="https://www.dorianrudolph.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dorianrudolph.com/de/tags/"
+                href="https://www.dorianrudolph.com/de/tags/"
                 />
   </url>
   
